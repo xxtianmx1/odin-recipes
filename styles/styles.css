@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(220, 220, 220);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+}
+
+ul li{
+    margin-bottom: 5px;
+}
